@@ -1,0 +1,5 @@
+print("Tran Thanh Tra")
+print("15 tuoi")
+print("2004")
+print("0123456789")
+print("THPT Yen Hoa")
